@@ -1,0 +1,3 @@
+mocker:
+    pattern: /
+    package: mocker

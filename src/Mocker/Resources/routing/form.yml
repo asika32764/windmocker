@@ -1,0 +1,8 @@
+# Form
+home:
+    pattern: /
+    controller: Form
+    extra:
+        layout: form
+        active:
+            manimenu: forms
